@@ -11,4 +11,4 @@
 - Uplift-моделирование (видео 3.5): [ноутбук](https://github.com/wasjaip/LightAutoML_ru/blob/main/ru_ipynb/3.5-UpliftModeling-RUS.ipynb)
 - Кастомизация пайплайнов LightAutoML (видео 4.1): [ноутбук](https://github.com/wasjaip/LightAutoML_ru/blob/main/ru_ipynb/4.1-CustomPipeline-RUS.ipynb)
 
-
+огромная благодарность [Ildus Sadrtdinov](https://github.com/isadrtdinov)
