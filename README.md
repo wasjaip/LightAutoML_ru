@@ -1,14 +1,22 @@
-# Материалы онлайн-курса по LightAutoML (LAMA)
+# LightAutoML — русскоязычные учебные материалы
 
-## Ноутбуки:
+Репозиторий с русскоязычными учебными ноутбуками по LightAutoML.
 
-- Введение в LightAutoML (видео 1.4): [ноутбук](https://github.com/wasjaip/LightAutoML_ru/blob/main/ru_ipynb/1.4-Introduction-RUS.ipynb)
-- Отчеты с ReportDeco (видео 2.1): [ноутбук](https://github.com/wasjaip/LightAutoML_ru/blob/main/ru_ipynb/2.1-ReportDeco-RUS.ipynb)
-- Мониторинг (видео 2.2): [ноутбук](https://github.com/wasjaip/LightAutoML_ru/blob/main/ru_ipynb/2.2-Monitoring-RUS.ipynb)
-- ICE и PDP (видео 2.4): [ноутбук](https://github.com/wasjaip/LightAutoML_ru/blob/main/ru_ipynb/2.4-ICE-PDP-RUS.ipynb)
-- Компьютерное зрение (CV) (видео 3.2): [ноутбук](https://github.com/wasjaip/LightAutoML_ru/blob/main/ru_ipynb/3.2-CV-RUS.ipynb)
-- Обработка естественного языка (NLP) (видео 3.3): [ноутбук](https://github.com/wasjaip/LightAutoML_ru/blob/main/ru_ipynb/3.3-NLP-RUS.ipynb)
-- Uplift-моделирование (видео 3.5): [ноутбук](https://github.com/wasjaip/LightAutoML_ru/blob/main/ru_ipynb/3.5-UpliftModeling-RUS.ipynb)
-- Кастомизация пайплайнов LightAutoML (видео 4.1): [ноутбук](https://github.com/wasjaip/LightAutoML_ru/blob/main/ru_ipynb/4.1-CustomPipeline-RUS.ipynb)
+Это **учебный/reference-репозиторий**, а не самостоятельный авторский ML-проект.
 
-огромная благодарность [Ildus Sadrtdinov](https://github.com/isadrtdinov)
+## Ноутбуки
+
+- [Введение в LightAutoML](ru_ipynb/1.4-Introduction-RUS.ipynb)
+- [ReportDeco](ru_ipynb/2.1-ReportDeco-RUS.ipynb)
+- [Мониторинг](ru_ipynb/2.2-Monitoring-RUS.ipynb)
+- [ICE и PDP](ru_ipynb/2.4-ICE-PDP-RUS.ipynb)
+- [Computer Vision](ru_ipynb/3.2-CV-RUS.ipynb)
+- [NLP](ru_ipynb/3.3-NLP-RUS.ipynb)
+- [Uplift Modeling](ru_ipynb/3.5-UpliftModeling-RUS.ipynb)
+- [Кастомизация pipeline](ru_ipynb/4.1-CustomPipeline-RUS.ipynb)
+
+## Назначение
+
+Репозиторий используется как справочник и коллекция материалов для изучения LightAutoML.
+
+Отдельная благодарность [Ildus Sadrtdinov](https://github.com/isadrtdinov) за материалы и вклад.
